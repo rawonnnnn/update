@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.1.2",
-  "minSupportedVersion": "0.1.2",
+  "latestVersion": "1.0.1",
+  "minSupportedVersion": "1.0.0",
   "force": false,
   "androidUrl": "market://details?id=com.sofaflix.mobile",
   "iosUrl": "",
