@@ -1,0 +1,9 @@
+{
+  "latestVersion": "0.1.1",
+  "minSupportedVersion": "0.1.0",
+  "force": false,
+  "androidUrl": "market://details?id=com.sofaflix.mobile",
+  "iosUrl": "",
+  "message": "Cập nhật bản sửa lỗi phát video và tối ưu hóa tốc độ tải trang.",
+  "apiDomain": "https://sofaflix.baby"
+}
